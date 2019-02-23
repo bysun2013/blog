@@ -9,24 +9,27 @@ type: page
 * content
 {:toc}
 
-# 重要学习资料
+## 重要学习资料
 
 * [前端同学的收藏](https://gaohaoyang.github.io/collection/)
+    
     这个博客的主题，就是从这位同学的博客Fork的
 
 * [框架源码学习](http://www.iocoder.cn/)
+    
     非常好的学习平台
-
 
 ## 编程语言
 
 ### Golang
-    Go是一个非常吸引人的编程语言，个人非常喜欢这种风格
-    现在最好的学习资料就是k8s的源码
+
+[kubernetes源码](https://github.com/kubernetes/kubernetes)
+
+最好的学习资料就是k8s的源码
 
 ### Java
 
-TODO
+* [Mybatis源码分析](https://my.oschina.net/zudajun?tab=newest&catalogId=3532897)
 
 ### NodeJS
 
@@ -67,3 +70,4 @@ TODO
 ## Other blogs
 
 * [孔令贤的个人博客](https://lingxiankong.github.io/index.html)
+* [本站主题的源GIT](https://github.com/Gaohaoyang/gaohaoyang.github.io)
