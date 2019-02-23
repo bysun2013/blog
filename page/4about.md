@@ -16,11 +16,12 @@ type: page
 
 目前的主要工作是JAVA后端开发，还是努力拓展边界的道路上
 
-热爱挑战，喜欢学习，永远在加油！
+热爱挑战，喜欢学习，永远在前进！
 
 ## 联系我
 
 * GitHub：[Bing](https://github.com/bysun2013)
+* Email: bysun2013@163.com
 
 ## 关于源站
 
